@@ -1,7 +1,7 @@
 name: overlapped_carousel
 description: A simple carousel package with overlapped items.
 version: 1.0.0
-homepage: https://github.com/GeekyAnts/flutter-carousel
+homepage: https://github.com/Karlen96/overlapped_carousel
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
