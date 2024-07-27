@@ -2,9 +2,9 @@
 
 A simple horizontal overlapped carousel widget.
 
-<img src="https://github.com/Karlen96/listener_app/blob/master/assets/preview_1.png" width="240">
+<img src="https://github.com/Karlen96/overlapped_carousel/blob/main/gifs/preview_1.gif" width="240">
 
-<img src="https://github.com/Karlen96/listener_app/blob/master/assets/preview_1.png" width="240">
+<img src="https://github.com/Karlen96/overlapped_carousel/blob/main/gifs/preview_2.gif" width="240">
 
 ```dart
 import 'package:flutter/material.dart';
